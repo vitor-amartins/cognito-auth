@@ -1,0 +1,17 @@
+{
+  "name": "cognito-authorizer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "vitor-amartins <vmam@cin.ufpe.br>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsonwebtoken": "^8.5.1",
+    "jwk-to-pem": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
